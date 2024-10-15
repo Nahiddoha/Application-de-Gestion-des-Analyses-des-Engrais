@@ -1,0 +1,94 @@
+*{
+    text-align: center;
+}
+.container {
+    display: flex;
+    width: 100%;
+}
+
+input {
+    height: 45px;
+}
+
+.inp {
+    height: 80px;
+}
+
+.inp1 {
+    height: 70px;
+}
+/* 
+.inp2 {
+    width: 350px;
+} */
+
+img {
+    height: 50px;
+    width: 60px;
+}
+
+.head {
+    text-align: center;
+}
+
+.image1 {
+    width: 303px;
+}
+
+/* .ths {
+    width: 150px;
+    border: 2 black solid;
+}
+
+.tds {
+    width: 60px;
+    border: 2 black solid;
+}
+
+td {
+    width: 500px;
+    text-align: center;
+    height: 15px;
+    border: 2 black solid;
+}
+
+th {
+    width: 350px;
+    height: 15px;
+    border: 2 black solid;
+}
+*/
+
+.d1 {
+    padding-top: 6%;
+    width: 88%;
+    margin-left: 5%;
+} 
+.btn-success {
+    width: 26%;
+    text-align: center;
+    background-color: rgba(86, 105, 86, 0.528);
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.6rem 1rem;
+    border: none;
+    border-radius: 0.35rem;
+    cursor: pointer;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+.alert-danger{
+    width: 91%;
+    margin-left: 63px;
+    margin-bottom: 3px;
+    margin-left: 8%;
+}
+/* #table1{
+    width: 91%;
+} */
+/* #mar{
+    margin-left: 3%;
+} */
